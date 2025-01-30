@@ -1,4 +1,53 @@
 # 💫 About Me:
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
 <br>Welcome to Tawana's GitHub 👾<br>🔐 Security Enthusiast | 💻 Software Developer | 🌐 Network Researcher<br><br>Hey there! I'm Tawana, a passionate hacker and cybersecurity expert with over 10 years of experience in the world of software development and security. I specialize in penetration testing, vulnerability analysis, and building modular security tools to help secure networks and applications.<br><br>🚀 What I'm Working On<br>🔍 Security Vulnerability Assessments: Currently building modular projects to identify and analyze vulnerabilities in real-world applications and systems.<br>🛠️ Tools & Scripts: Open-source tools for network penetration testing and security auditing.<br>💡 Security Research: Exploring the latest in cybersecurity, from zero-day exploits to defense mechanisms.<br>🌐 Secure Internet Access: Focused on bypassing filters and securing communications, especially in high-risk environments.<br>🔧 Technologies I Work With<br>Languages: Python, C, Bash, JavaScript, Go<br>Frameworks & Tools: Metasploit, Burp Suite, Nmap, Wireshark, Kali Linux, Docker, Git<br>Security Focus: Web Application Security, Network Penetration Testing, Cryptography, Reverse Engineering<br>Protocols & Networks: TCP/IP, HTTP/S, DNS, VPN, Proxies<br>📚 My Projects<br>TawanaSecTools – A collection of security tools and scripts for vulnerability analysis.<br>ZeroByteExploit – A modular exploit development framework for learning and experimenting with vulnerabilities.<br>BypassFilter – A project dedicated to bypassing internet censorship and firewalls securely.<br>🌟 Connect With Me<br>💬 Twitter: @TawanaCyber<br>📧 Email: tawana.cyber@securemail.com<br>🌐 Personal Blog: tawana.dev<br>📜 About My Work<br>I am constantly exploring new methods to break security barriers and test the limits of digital security. My goal is to make the internet a safer place by uncovering vulnerabilities and sharing knowledge with the security community. If you're into hacking, ethical penetration testing, or just curious about cybersecurity, feel free to explore my projects and let's collaborate on keeping the web secure!<br><br>⚡ Fun Facts About Me<br>I believe that cybersecurity is not just a job; it’s a mindset.<br>I enjoy solving complex puzzles and reverse engineering cryptographic algorithms.<br>I’m always learning new ways to test systems and defend against modern-day cyber threats.<br>Feel free to check out my repositories and don’t hesitate to open an issue or pull request if you have any questions or want to contribute!<br><br>Let me know if you'd like any adjustments or additions to fit your personal style!
 
 
